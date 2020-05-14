@@ -1,6 +1,6 @@
 {
-	"name": "Herplk",
-	"description": "Run heroku",
+	"name": "Heroku aria2c",
+	"description": "Run aria2c on heroku",
 	"repository": "https://github.com/gbisheraz581m/htjabtg",
 	"keywords": ["aria2c"],
 	"env": {
