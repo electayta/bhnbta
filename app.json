@@ -1,6 +1,6 @@
 {
-	"name": "Johancj",
-	"description": "Run heroku",
+	"name": "Heroku aria2c",
+	"description": "Run aria2c on heroku",
 	"repository": "https://github.com/electayta/bhnbta",
 	"keywords": ["aria2c"],
 	"env": {
