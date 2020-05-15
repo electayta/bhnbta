@@ -1,7 +1,7 @@
 {
-	"name": "Heroku aria2c",
-	"description": "Run aria2c on heroku",
-	"repository": "https://github.com/gbisheraz581m/htjabtg",
+	"name": "Johancj",
+	"description": "Run heroku",
+	"repository": "https://github.com/electayta/bhnbta",
 	"keywords": ["aria2c"],
 	"env": {
 		"HEROKU_APP_NAME": {
